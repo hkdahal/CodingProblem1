@@ -7,7 +7,9 @@ A letter is considered to be the same letter regardless of whether it appears in
 
 
 Input: “Some people feel the rain, while others just get wet.”
+
 Output: “people”
 
 Input: “O Romeo, Romeo, where-Fore art thou Romeo?”
+
 Output: “where-Fore”
