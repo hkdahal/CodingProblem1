@@ -10,6 +10,8 @@ Input: “Some people feel the rain, while others just get wet.”
 
 Output: “people”
 
+
+
 Input: “O Romeo, Romeo, where-Fore art thou Romeo?”
 
 Output: “where-Fore”
