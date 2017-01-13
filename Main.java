@@ -58,7 +58,7 @@ public class Main {
         System.out.print("Enter filename: ");
 
         Scanner in = new Scanner(System.in);
-        String filename = "src/" + in.next();
+        String filename = in.next();
         System.out.println(doStuff(filename));
 
     }
